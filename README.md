@@ -136,7 +136,7 @@ Data preprocessing steps included:
 - Bulk Purchase Cost Savings Visualization  
 - Performance Heatmaps by Brand and Vendor  
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard](images/Vendor_Performance_Dashboard.png)
 
 ---
 
